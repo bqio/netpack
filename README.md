@@ -16,11 +16,11 @@ Download and install latest version app and double click on any .netp file.
 ### JSON Config
 ```json
 {
-  "RunIdx": 0,
   "Entries": [
     {
       "Path": "dist/hello.txt",
-      "URL": "https://bqio.ru/hello.txt"
+      "URL": "https://bqio.ru/hello.txt",
+      "RunIt": true
     },
     {
       "Path": "dist/PWAAT_PC_public.zip",
@@ -32,9 +32,12 @@ Download and install latest version app and double click on any .netp file.
 * **Entries** - list of all downloading files.
 * **Path** - save relative path.
 * **URL** - source url for download.
-* **RunIdx** - run that *Entries[RunIdx]* after all downloaded. *
+* **RunIt** - run that entry after downloaded. *
 
 *\* - not required fields.*
 
 ### Create netpack archive
 Drag & Drop your json config file on netpack-cli for creating netpack archive.
+
+### Open netpack archive
+Drag & Drop your .netp file on netpack-cli for downloading.

@@ -44,3 +44,4 @@ Drag & Drop your .netp file on netpack-cli for downloading.
 
 ### Supported link formats
 * Source URL, ex. (https://bqio.ru/hello.txt)
+* Yandex Disk URL, ex. (https://yadi.sk/d/cmcVnCRTC89_Wg)

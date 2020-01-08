@@ -13,6 +13,8 @@
 Download and install latest version app and double click on any .netp file.
 
 ## For developers
+Download binary.zip archive.
+
 ### JSON Config
 ```json
 {

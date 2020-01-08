@@ -18,13 +18,13 @@ Download and install latest version app and double click on any .netp file.
 {
   "Entries": [
     {
-      "Path": "dist/hello.txt",
+      "Path": "dist/src/hello.txt",
       "URL": "https://bqio.ru/hello.txt",
       "RunIt": true
     },
     {
-      "Path": "dist/PWAAT_PC_public.zip",
-      "URL": "https://speed.hetzner.de/100MB.bin"
+      "Path": "dist/yd/hello.txt",
+      "URL": "https://yadi.sk/d/cmcVnCRTC89_Wg"
     }
   ]
 }
@@ -32,7 +32,7 @@ Download and install latest version app and double click on any .netp file.
 * **Entries** - list of all downloading files.
 * **Path** - save relative path.
 * **URL** - source url for download.
-* **RunIt** - run that entry after downloaded. *
+* **RunIt** - run that entry after all files downloaded. *
 
 *\* - not required fields.*
 

@@ -41,3 +41,6 @@ Drag & Drop your json config file on netpack-cli for creating netpack archive.
 
 ### Open netpack archive
 Drag & Drop your .netp file on netpack-cli for downloading.
+
+### Supported link formats
+* Source URL, ex. (https://bqio.ru/hello.txt)
